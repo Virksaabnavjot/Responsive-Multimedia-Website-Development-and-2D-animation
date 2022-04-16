@@ -6,3 +6,6 @@ The project was challeging and required a learning curve in order to sucessfully
 We learned using Adobe Fireworks in order to create interactive 2D animation for the web application.
 And for the web app - we used strict HTML, Javascript and CSS3 principles to achieve a responsive application across all platforms - desktop/mobile/ipads and used Github for version control.
 
+
+
+Copyrights - Navjot Singh Virk (https://navjot.mrvirk.com & https://mrvirk.com)
